@@ -11,12 +11,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
+
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm [Kori][website] 👋
-
-[![Website](https://github.com/korivirtual)](https://github.com/korivirtual)
 
 ## Developer, Gamer and Streamer!
 
@@ -25,7 +23,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with many people
 - 🥅 2023 Goals: Hell if i freaking know, just when i get too it i get to it
 - ⚡ Fun fact: I love gaming, and that about it.
-
+- 😄 Pronouns: She/Her
+  
 ## ⚡ Find  Me on
 
 <div align='left' style="display: flex; justify-content: space-between;">
