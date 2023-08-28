@@ -5,12 +5,76 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a GTA RP Server and Discord Bot
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
+### Hi there, I'm [Kori][website] 👋
+
+[![Website](https://github.com/korivirtual)](https://github.com/korivirtual)
+
+## Developer, Gamer and Streamer!
+
+- 🔭 I’m currently working on a Projects In LUA
+- 🌱 I’m currently learning what I need to know, to keep my skill better
+- 👯 I’m looking to collaborate with many people
+- 🥅 2023 Goals: Hell if i freaking know, just when i get too it i get to it
+- ⚡ Fun fact: I love gaming, and that about it.
+
+## ⚡ Find  Me on
+
+<div align='left' style="display: flex; justify-content: space-between;">
+	<a href='#'>
+	<img src=https://img.shields.io/badge/Discord-korivr-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = korivr'>
+	</a>
+</div>
+
+<hr>
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
+<img align="left" alt="LUA" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+---
+
+
+### ⚡ Github Stats
+
+<a href="https://github.com/korivirtual">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=korivirtual&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="korivirtual's stats" />
+<a href="https://github.com/korivirtual?tab=repositories">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korivirtual&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232423">
+</h2>
+<br>
+<br>
+</a>
+<h3 align="center"> 
+<br>
+<br>
+Visitors<br>
+<img src="https://profile-counter.glitch.me/korivr/count.svg />
+</h3>
+<br>
+<br>  
+
+[website]: https://github.com/korivirtual
