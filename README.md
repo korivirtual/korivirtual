@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Projects In LUA
 - 🌱 I’m currently learning what I need to know, to keep my skill better
 - 👯 I’m looking to collaborate with many people
-- 🥅 2023 Goals: Hell if i freaking know, just when i get too it i get to it
+- 🥅 2024 Goals: Hell if i freaking know, I like cheese
 - ⚡ Fun fact: I love gaming, and that about it.
 - 😄 Pronouns: She/Her
   
