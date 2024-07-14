@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
-	<img src=https://img.shields.io/badge/Discord-korivr-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = koritime.'>
+	<img src=https://img.shields.io/badge/Discord-koritime.-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = koritime.'>
 	</a>
 </div>
 
