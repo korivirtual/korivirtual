@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**korivirtual/korivirtual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kori-time/kori-time** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Projects In LUA
 - 🌱 I’m currently learning what I need to know, to keep my skill better
 - 👯 I’m looking to collaborate with many people
-- 🥅 2024 Goals: Hell if i freaking know, I like cheese
+- 🥅 2026 Goals: Hell if i freaking know, I like cheese
 - ⚡ Fun fact: I love gaming, and that about it.
 - 😄 Pronouns: She/Her
   
