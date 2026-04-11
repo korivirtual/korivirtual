@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with many people
 - 🥅 2026 Goals: Hell if i freaking know, I like cheese
 - ⚡ Fun fact: I love gaming, and that about it.
-- 😄 Pronouns: She/Her
   
 ## ⚡ Find  Me on
 
