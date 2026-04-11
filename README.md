@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[website]: https://github.com/korivirtual
+[website]: https://github.com/kori-time
